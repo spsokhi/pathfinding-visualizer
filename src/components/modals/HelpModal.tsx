@@ -37,7 +37,7 @@ const HelpModal = ({ onClose }: { onClose: () => void }) => {
 							section.
 						</p>
 						<a
-							href="https://github.com/TylerMommsen/pathfinding-visualizer"
+							href="https://github.com/spsokhi/pathfinding-visualizer"
 							target="_blank"
 							rel="noreferrer noopener"
 						>
@@ -193,7 +193,7 @@ const HelpModal = ({ onClose }: { onClose: () => void }) => {
 							the source code on GitHub, here is the link again below.
 						</p>
 						<a
-							href="https://github.com/TylerMommsen/pathfinding-visualizer"
+							href="https://github.com/spsokhi/pathfinding-visualizer"
 							target="_blank"
 							rel="noreferrer noopener"
 						>
