@@ -6,7 +6,7 @@ export default function Footer() {
 		<footer id="footer">
 			<p>&copy; {year} Tyler Mommsen</p>
 			<a
-				href="https://github.com/TylerMommsen/pathfinding-visualizer"
+				href="https://github.com/spsokhi/pathfinding-visualizer"
 				target="_blank"
 				rel="noreferrer noopener"
 			>
